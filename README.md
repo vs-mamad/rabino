@@ -37,4 +37,6 @@ https://t.me/RMSource
 https://t.me/RMSource
 ```
 ### My site
-<a href="https://anime.api-vison.workers.dev" style="text-decoration : none;">سایت ما</a>
+<a href="https://anime.api-vison.workers.dev" style="text-decoration: none;">سایت ما</a>
+
+[![Packaging status](https://repology.org/badge/tiny-repos/python%3Arabino.svg)](https://repology.org/project/python%3Arabino/versions)
